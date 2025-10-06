@@ -6,3 +6,5 @@ a chickeen and clippy from the original repository, check assets/images for
 its license and it's pretty much it :D
 
 yet, don't forget to give me a star :D (and here too https://github.com/tonybaloney/vscode-pets)
+
+[!screenshow](./caps/show.png)
