@@ -1,4 +1,5 @@
-# mascots-godot
+# Godot Mascots!
+
 A silly implementation of vscode-pets for godot 
 
 ![screenshot](./caps/show.png)
