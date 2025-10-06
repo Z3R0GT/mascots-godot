@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://besdcpe8613hq"
+path="res://.godot/imported/brown_walk_fast_8fps.gif-ca93761d0da55ae1df20a08c0b72f762.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/horse/brown_walk_fast_8fps.gif"
+dest_files=["res://.godot/imported/brown_walk_fast_8fps.gif-ca93761d0da55ae1df20a08c0b72f762.tres"]
+
+[params]
+
+frames_per_second=30

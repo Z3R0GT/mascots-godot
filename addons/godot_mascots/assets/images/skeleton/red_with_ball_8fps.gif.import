@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://c1kal2e38s4pp"
+path="res://.godot/imported/red_with_ball_8fps.gif-496e571cad5ae38687ad368f22a9ae13.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/red_with_ball_8fps.gif"
+dest_files=["res://.godot/imported/red_with_ball_8fps.gif-496e571cad5ae38687ad368f22a9ae13.tres"]
+
+[params]
+
+frames_per_second=30

@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://bi55ii7hr75th"
+path="res://.godot/imported/pink_stand_8fps.gif-b1ae1f36de28365e92d9b3b113b879a0.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/pink_stand_8fps.gif"
+dest_files=["res://.godot/imported/pink_stand_8fps.gif-b1ae1f36de28365e92d9b3b113b879a0.tres"]
+
+[params]
+
+frames_per_second=30

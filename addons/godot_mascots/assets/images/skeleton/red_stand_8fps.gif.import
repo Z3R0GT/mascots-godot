@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://b3navqv0uonsi"
+path="res://.godot/imported/red_stand_8fps.gif-5dabb3a65433357d833825817bb5858b.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/red_stand_8fps.gif"
+dest_files=["res://.godot/imported/red_stand_8fps.gif-5dabb3a65433357d833825817bb5858b.tres"]
+
+[params]
+
+frames_per_second=30

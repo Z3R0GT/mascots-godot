@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://bm2cmdy4ii7eg"
+path="res://.godot/imported/gray_with_ball_8fps.gif-33667caaf08547d42934ccf76e31b573.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/totoro/gray_with_ball_8fps.gif"
+dest_files=["res://.godot/imported/gray_with_ball_8fps.gif-33667caaf08547d42934ccf76e31b573.tres"]
+
+[params]
+
+frames_per_second=30

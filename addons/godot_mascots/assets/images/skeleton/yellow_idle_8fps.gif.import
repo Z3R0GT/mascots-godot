@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://d1iyeo8aymrrs"
+path="res://.godot/imported/yellow_idle_8fps.gif-a65a9f50c21fde17ecc28018f7ac6d66.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/yellow_idle_8fps.gif"
+dest_files=["res://.godot/imported/yellow_idle_8fps.gif-a65a9f50c21fde17ecc28018f7ac6d66.tres"]
+
+[params]
+
+frames_per_second=30

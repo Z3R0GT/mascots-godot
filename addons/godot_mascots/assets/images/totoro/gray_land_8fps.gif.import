@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://cl31ib4sgxfp8"
+path="res://.godot/imported/gray_land_8fps.gif-6f420ce60c5309191c5d0f0ea7eb0773.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/totoro/gray_land_8fps.gif"
+dest_files=["res://.godot/imported/gray_land_8fps.gif-6f420ce60c5309191c5d0f0ea7eb0773.tres"]
+
+[params]
+
+frames_per_second=30

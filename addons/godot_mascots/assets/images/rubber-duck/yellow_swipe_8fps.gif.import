@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://ceg6phrf41wko"
+path="res://.godot/imported/yellow_swipe_8fps.gif-43746495bb8b5c3099e5b6b714e43a46.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/rubber-duck/yellow_swipe_8fps.gif"
+dest_files=["res://.godot/imported/yellow_swipe_8fps.gif-43746495bb8b5c3099e5b6b714e43a46.tres"]
+
+[params]
+
+frames_per_second=30

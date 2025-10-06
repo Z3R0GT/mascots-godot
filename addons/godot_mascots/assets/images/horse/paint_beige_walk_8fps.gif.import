@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://fk7fmolmnv4c"
+path="res://.godot/imported/paint_beige_walk_8fps.gif-670e0a084600f0d8a1bcd610037dfbbf.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/horse/paint_beige_walk_8fps.gif"
+dest_files=["res://.godot/imported/paint_beige_walk_8fps.gif-670e0a084600f0d8a1bcd610037dfbbf.tres"]
+
+[params]
+
+frames_per_second=30

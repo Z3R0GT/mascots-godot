@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://f4nmj1asm477"
+path="res://.godot/imported/black_swipe_8fps.gif-ea8a8c57a72bfb56915381d8f3859d28.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/dog/black_swipe_8fps.gif"
+dest_files=["res://.godot/imported/black_swipe_8fps.gif-ea8a8c57a72bfb56915381d8f3859d28.tres"]
+
+[params]
+
+frames_per_second=30

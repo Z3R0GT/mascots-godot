@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://ycmygvlrio8c"
+path="res://.godot/imported/red_swipe_8fps.gif-243d6f57e2adce046aac772538182d0b.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/red_swipe_8fps.gif"
+dest_files=["res://.godot/imported/red_swipe_8fps.gif-243d6f57e2adce046aac772538182d0b.tres"]
+
+[params]
+
+frames_per_second=30

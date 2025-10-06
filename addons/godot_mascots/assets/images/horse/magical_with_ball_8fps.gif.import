@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://dc0wuwq76gigv"
+path="res://.godot/imported/magical_with_ball_8fps.gif-ab44c1147a1ab4ab5006522c1b92ee51.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/horse/magical_with_ball_8fps.gif"
+dest_files=["res://.godot/imported/magical_with_ball_8fps.gif-ab44c1147a1ab4ab5006522c1b92ee51.tres"]
+
+[params]
+
+frames_per_second=30

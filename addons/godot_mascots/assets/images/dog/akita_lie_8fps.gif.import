@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://dy8r16ax83lfx"
+path="res://.godot/imported/akita_lie_8fps.gif-8927893e278855030d80d96b8c9db94a.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/dog/akita_lie_8fps.gif"
+dest_files=["res://.godot/imported/akita_lie_8fps.gif-8927893e278855030d80d96b8c9db94a.tres"]
+
+[params]
+
+frames_per_second=30

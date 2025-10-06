@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://cfo4wy7vq1mdk"
+path="res://.godot/imported/purple_stand_8fps.gif-726408b9b9e7acedadb7b22faf19e8f8.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/purple_stand_8fps.gif"
+dest_files=["res://.godot/imported/purple_stand_8fps.gif-726408b9b9e7acedadb7b22faf19e8f8.tres"]
+
+[params]
+
+frames_per_second=30

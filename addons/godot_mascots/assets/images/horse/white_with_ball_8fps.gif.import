@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://di1crido1i3nc"
+path="res://.godot/imported/white_with_ball_8fps.gif-6737f27d24bb495d23f43fad5954f777.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/horse/white_with_ball_8fps.gif"
+dest_files=["res://.godot/imported/white_with_ball_8fps.gif-6737f27d24bb495d23f43fad5954f777.tres"]
+
+[params]
+
+frames_per_second=30

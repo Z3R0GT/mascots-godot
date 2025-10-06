@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://suuh3e3l3vpd"
+path="res://.godot/imported/gray_run_8fps.gif-6b9e3c8124f5701cfdf58fe4a15570c1.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/rocky/gray_run_8fps.gif"
+dest_files=["res://.godot/imported/gray_run_8fps.gif-6b9e3c8124f5701cfdf58fe4a15570c1.tres"]
+
+[params]
+
+frames_per_second=30

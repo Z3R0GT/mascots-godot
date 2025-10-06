@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://sjqpjd7l5415"
+path="res://.godot/imported/yellow_swipe_8fps.gif-b1113589a77691f6843f342159199917.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/clippy/yellow_swipe_8fps.gif"
+dest_files=["res://.godot/imported/yellow_swipe_8fps.gif-b1113589a77691f6843f342159199917.tres"]
+
+[params]
+
+frames_per_second=30

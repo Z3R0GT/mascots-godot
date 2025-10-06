@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://vhvfq7od7wy2"
+path="res://.godot/imported/black_with_ball_8fps.gif-066d8b65ab99ed1b98c5387cd2f67389.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/clippy/black_with_ball_8fps.gif"
+dest_files=["res://.godot/imported/black_with_ball_8fps.gif-066d8b65ab99ed1b98c5387cd2f67389.tres"]
+
+[params]
+
+frames_per_second=30

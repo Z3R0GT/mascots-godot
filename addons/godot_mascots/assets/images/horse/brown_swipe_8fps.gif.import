@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://d3x6j6lt5bx15"
+path="res://.godot/imported/brown_swipe_8fps.gif-cc5600c6d4aa0af51f38d719066b3729.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/horse/brown_swipe_8fps.gif"
+dest_files=["res://.godot/imported/brown_swipe_8fps.gif-cc5600c6d4aa0af51f38d719066b3729.tres"]
+
+[params]
+
+frames_per_second=30

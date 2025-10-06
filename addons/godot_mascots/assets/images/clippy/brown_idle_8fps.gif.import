@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://bh4lgmbx4fbpn"
+path="res://.godot/imported/brown_idle_8fps.gif-c46c670eeff59e073506e823c788a661.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/clippy/brown_idle_8fps.gif"
+dest_files=["res://.godot/imported/brown_idle_8fps.gif-c46c670eeff59e073506e823c788a661.tres"]
+
+[params]
+
+frames_per_second=30

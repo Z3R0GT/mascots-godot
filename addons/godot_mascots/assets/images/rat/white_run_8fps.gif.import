@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://blqehu7ub4324"
+path="res://.godot/imported/white_run_8fps.gif-f7e6b96c4d817ab1306db7f8f8538172.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/rat/white_run_8fps.gif"
+dest_files=["res://.godot/imported/white_run_8fps.gif-f7e6b96c4d817ab1306db7f8f8538172.tres"]
+
+[params]
+
+frames_per_second=30

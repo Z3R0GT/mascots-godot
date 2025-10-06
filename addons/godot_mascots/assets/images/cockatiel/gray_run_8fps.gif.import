@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://cwr5e226klr4r"
+path="res://.godot/imported/gray_run_8fps.gif-b9dad6b757f6c44054151ddc0b833c38.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/cockatiel/gray_run_8fps.gif"
+dest_files=["res://.godot/imported/gray_run_8fps.gif-b9dad6b757f6c44054151ddc0b833c38.tres"]
+
+[params]
+
+frames_per_second=30

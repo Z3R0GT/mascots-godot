@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://qspfbcluet3j"
+path="res://.godot/imported/brown_walk_8fps.gif-19fb0ce410627319b803b5fae2857e7e.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/brown_walk_8fps.gif"
+dest_files=["res://.godot/imported/brown_walk_8fps.gif-19fb0ce410627319b803b5fae2857e7e.tres"]
+
+[params]
+
+frames_per_second=30

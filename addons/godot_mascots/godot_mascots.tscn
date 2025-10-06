@@ -1,0 +1,73 @@
+[gd_scene load_steps=4 format=3 uid="uid://drf6476ajc1ua"]
+
+[ext_resource type="Script" uid="uid://dccdwqh4jxsyl" path="res://addons/godot_mascots/godot_mascots.gd" id="1_njnpc"]
+[ext_resource type="Texture2D" uid="uid://deaapdo06upv3" path="res://addons/godot_mascots/assets/images/backgrounds/autumn/background-dark-large.png" id="2_hiq2n"]
+[ext_resource type="Texture2D" uid="uid://cl20xomiyuqah" path="res://addons/godot_mascots/assets/images/backgrounds/autumn/foreground-dark-large.png" id="3_njnpc"]
+
+[node name="GodotMascots" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_njnpc")
+
+[node name="background" type="Control" parent="."]
+custom_minimum_size = Vector2(0, 500)
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 0
+
+[node name="TextureRect" type="TextureRect" parent="background"]
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -500.0
+grow_horizontal = 2
+grow_vertical = 0
+texture = ExtResource("2_hiq2n")
+expand_mode = 1
+
+[node name="TextureRect2" type="TextureRect" parent="background"]
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -500.0
+grow_horizontal = 2
+grow_vertical = 0
+texture = ExtResource("3_njnpc")
+expand_mode = 1
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+layout_mode = 1
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="add" type="Button" parent="HBoxContainer"]
+layout_mode = 2
+text = "Add mascot"
+
+[node name="delete" type="Button" parent="HBoxContainer"]
+layout_mode = 2
+text = "Delete mascot"
+
+[node name="ref" type="Control" parent="."]
+layout_mode = 1
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_top = -40.0
+offset_right = 40.0
+grow_vertical = 0
+
+[connection signal="pressed" from="HBoxContainer/add" to="." method="_on_add_pressed"]
+[connection signal="pressed" from="HBoxContainer/delete" to="." method="_on_delete_pressed"]

@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://c1i1dyuu6onlc"
+path="res://.godot/imported/yellow_walk_fast_8fps.gif-9cfb9c1b2274a6fc7b72a34336d93065.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/clippy/yellow_walk_fast_8fps.gif"
+dest_files=["res://.godot/imported/yellow_walk_fast_8fps.gif-9cfb9c1b2274a6fc7b72a34336d93065.tres"]
+
+[params]
+
+frames_per_second=30

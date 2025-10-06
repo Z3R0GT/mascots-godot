@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://dw4sugkgre53h"
+path="res://.godot/imported/brown_stand_8fps.gif-73489af52ebe14f4cec32936491edf45.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/horse/brown_stand_8fps.gif"
+dest_files=["res://.godot/imported/brown_stand_8fps.gif-73489af52ebe14f4cec32936491edf45.tres"]
+
+[params]
+
+frames_per_second=30

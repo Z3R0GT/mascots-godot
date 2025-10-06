@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://cy53xp8oe3ovx"
+path="res://.godot/imported/warrior_walk_fast_8fps.gif-ba3a21f2455b8823e2bd360d3321642e.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/horse/warrior_walk_fast_8fps.gif"
+dest_files=["res://.godot/imported/warrior_walk_fast_8fps.gif-ba3a21f2455b8823e2bd360d3321642e.tres"]
+
+[params]
+
+frames_per_second=30

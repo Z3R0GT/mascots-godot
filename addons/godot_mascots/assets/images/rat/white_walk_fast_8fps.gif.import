@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://die7qg2f04p5e"
+path="res://.godot/imported/white_walk_fast_8fps.gif-756b6f8471b5e7bdd0b4e92f3b0600e3.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/rat/white_walk_fast_8fps.gif"
+dest_files=["res://.godot/imported/white_walk_fast_8fps.gif-756b6f8471b5e7bdd0b4e92f3b0600e3.tres"]
+
+[params]
+
+frames_per_second=30

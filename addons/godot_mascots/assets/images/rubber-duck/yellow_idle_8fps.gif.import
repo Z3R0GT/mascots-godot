@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://boq7vy4a7j052"
+path="res://.godot/imported/yellow_idle_8fps.gif-122616c78904bbc41977753cf6a75c34.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/rubber-duck/yellow_idle_8fps.gif"
+dest_files=["res://.godot/imported/yellow_idle_8fps.gif-122616c78904bbc41977753cf6a75c34.tres"]
+
+[params]
+
+frames_per_second=30

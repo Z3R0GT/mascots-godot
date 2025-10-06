@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://3g18s4p05oln"
+path="res://.godot/imported/purple_with_ball_8fps.gif-4efec68d4bdc54e5dafc7089dddfdd69.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/mod/purple_with_ball_8fps.gif"
+dest_files=["res://.godot/imported/purple_with_ball_8fps.gif-4efec68d4bdc54e5dafc7089dddfdd69.tres"]
+
+[params]
+
+frames_per_second=30

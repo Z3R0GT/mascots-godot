@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://bawg7g7t6vrh3"
+path="res://.godot/imported/white_idle_8fps.gif-a722de3aa94b1f6da2f89dc9094bbc1d.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/chicken/white_idle_8fps.gif"
+dest_files=["res://.godot/imported/white_idle_8fps.gif-a722de3aa94b1f6da2f89dc9094bbc1d.tres"]
+
+[params]
+
+frames_per_second=30

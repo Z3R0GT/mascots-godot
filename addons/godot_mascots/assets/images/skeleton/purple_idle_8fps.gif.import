@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://dxorgsjmdle7m"
+path="res://.godot/imported/purple_idle_8fps.gif-0a54e34ce6af910eb94e1926db23c149.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/purple_idle_8fps.gif"
+dest_files=["res://.godot/imported/purple_idle_8fps.gif-0a54e34ce6af910eb94e1926db23c149.tres"]
+
+[params]
+
+frames_per_second=30

@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://xiuk4gl4tl0k"
+path="res://.godot/imported/magical_idle_8fps.gif-5cd877ebcb77e8ffaeb0dd5ca5963892.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/horse/magical_idle_8fps.gif"
+dest_files=["res://.godot/imported/magical_idle_8fps.gif-5cd877ebcb77e8ffaeb0dd5ca5963892.tres"]
+
+[params]
+
+frames_per_second=30

@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://djomld34b1v41"
+path="res://.godot/imported/red_walk_8fps.gif-e8d41d88fca3e5967fb24a8cf9477a61.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/crab/red_walk_8fps.gif"
+dest_files=["res://.godot/imported/red_walk_8fps.gif-e8d41d88fca3e5967fb24a8cf9477a61.tres"]
+
+[params]
+
+frames_per_second=30

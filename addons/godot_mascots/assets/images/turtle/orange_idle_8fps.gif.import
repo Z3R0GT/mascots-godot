@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://bbt130o82g86s"
+path="res://.godot/imported/orange_idle_8fps.gif-8293dc8e1e750769515e51d739d4920d.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/turtle/orange_idle_8fps.gif"
+dest_files=["res://.godot/imported/orange_idle_8fps.gif-8293dc8e1e750769515e51d739d4920d.tres"]
+
+[params]
+
+frames_per_second=30

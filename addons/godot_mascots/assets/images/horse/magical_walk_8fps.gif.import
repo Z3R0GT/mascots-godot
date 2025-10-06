@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://dlk7cjhvucd3g"
+path="res://.godot/imported/magical_walk_8fps.gif-0947c3f13a58dcafe4c5dd158915cd3b.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/horse/magical_walk_8fps.gif"
+dest_files=["res://.godot/imported/magical_walk_8fps.gif-0947c3f13a58dcafe4c5dd158915cd3b.tres"]
+
+[params]
+
+frames_per_second=30

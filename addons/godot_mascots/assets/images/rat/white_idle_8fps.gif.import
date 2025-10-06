@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://bim01dlyxeuxd"
+path="res://.godot/imported/white_idle_8fps.gif-3b9a2e7186a0164f4d3c43cb9c61fe94.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/rat/white_idle_8fps.gif"
+dest_files=["res://.godot/imported/white_idle_8fps.gif-3b9a2e7186a0164f4d3c43cb9c61fe94.tres"]
+
+[params]
+
+frames_per_second=30

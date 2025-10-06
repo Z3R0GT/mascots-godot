@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://c8bygdk6yhk4a"
+path="res://.godot/imported/purple_walk_fast_8fps.gif-db78539e61c8bc19652d3b9c2fa8e81a.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/mod/purple_walk_fast_8fps.gif"
+dest_files=["res://.godot/imported/purple_walk_fast_8fps.gif-db78539e61c8bc19652d3b9c2fa8e81a.tres"]
+
+[params]
+
+frames_per_second=30

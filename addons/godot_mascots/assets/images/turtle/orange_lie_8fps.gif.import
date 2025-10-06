@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://oa0wda4xst1k"
+path="res://.godot/imported/orange_lie_8fps.gif-3c30a9e82c2606cd107fc7e83c94c449.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/turtle/orange_lie_8fps.gif"
+dest_files=["res://.godot/imported/orange_lie_8fps.gif-3c30a9e82c2606cd107fc7e83c94c449.tres"]
+
+[params]
+
+frames_per_second=30

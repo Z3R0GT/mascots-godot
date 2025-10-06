@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://dklx6xu1plx3m"
+path="res://.godot/imported/yellow_run_8fps.gif-fb8572335cb622d3faf40a2b83bb0f28.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/yellow_run_8fps.gif"
+dest_files=["res://.godot/imported/yellow_run_8fps.gif-fb8572335cb622d3faf40a2b83bb0f28.tres"]
+
+[params]
+
+frames_per_second=30

@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://lq8mkg5peopv"
+path="res://.godot/imported/purple_swipe_8fps.gif-e2973a0313d53b1c795ba99fd307144f.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/mod/purple_swipe_8fps.gif"
+dest_files=["res://.godot/imported/purple_swipe_8fps.gif-e2973a0313d53b1c795ba99fd307144f.tres"]
+
+[params]
+
+frames_per_second=30

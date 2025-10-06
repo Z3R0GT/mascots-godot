@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://bffwnth5cvoj5"
+path="res://.godot/imported/orange_swipe_8fps.gif-05bbc11c9704075708c8e084e2dee8ec.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/turtle/orange_swipe_8fps.gif"
+dest_files=["res://.godot/imported/orange_swipe_8fps.gif-05bbc11c9704075708c8e084e2dee8ec.tres"]
+
+[params]
+
+frames_per_second=30

@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://d38qpt7b0sxlh"
+path="res://.godot/imported/warrior_swipe_8fps.gif-b67010fce986166b4965288de34f59ab.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/horse/warrior_swipe_8fps.gif"
+dest_files=["res://.godot/imported/warrior_swipe_8fps.gif-b67010fce986166b4965288de34f59ab.tres"]
+
+[params]
+
+frames_per_second=30

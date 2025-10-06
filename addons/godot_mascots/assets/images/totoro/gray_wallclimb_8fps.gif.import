@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://fmco5h5tlqav"
+path="res://.godot/imported/gray_wallclimb_8fps.gif-c63d834ebcd21c33c19b40ffddcc905c.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/totoro/gray_wallclimb_8fps.gif"
+dest_files=["res://.godot/imported/gray_wallclimb_8fps.gif-c63d834ebcd21c33c19b40ffddcc905c.tres"]
+
+[params]
+
+frames_per_second=30

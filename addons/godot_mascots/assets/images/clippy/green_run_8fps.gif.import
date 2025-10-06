@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://t41jvptql5ni"
+path="res://.godot/imported/green_run_8fps.gif-a60f41ceb06117e83f88cb1cb361a7ef.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/clippy/green_run_8fps.gif"
+dest_files=["res://.godot/imported/green_run_8fps.gif-a60f41ceb06117e83f88cb1cb361a7ef.tres"]
+
+[params]
+
+frames_per_second=30

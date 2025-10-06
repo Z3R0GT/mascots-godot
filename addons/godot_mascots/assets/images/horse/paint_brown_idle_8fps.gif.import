@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://dysbh3kajbwji"
+path="res://.godot/imported/paint_brown_idle_8fps.gif-045f6b49e7659713d4d8b83a20de1e18.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/horse/paint_brown_idle_8fps.gif"
+dest_files=["res://.godot/imported/paint_brown_idle_8fps.gif-045f6b49e7659713d4d8b83a20de1e18.tres"]
+
+[params]
+
+frames_per_second=30

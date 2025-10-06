@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://b5pukyfduk6cs"
+path="res://.godot/imported/akita_walk_fast_8fps.gif-3cd23677d0a2a403e5ed2cb1c04cf7e0.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/dog/akita_walk_fast_8fps.gif"
+dest_files=["res://.godot/imported/akita_walk_fast_8fps.gif-3cd23677d0a2a403e5ed2cb1c04cf7e0.tres"]
+
+[params]
+
+frames_per_second=30

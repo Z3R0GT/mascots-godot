@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://pyslr2dhorxx"
+path="res://.godot/imported/white_run_8fps.gif-132e4de7d7bdb4bd957b536ebb81f8ae.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/white_run_8fps.gif"
+dest_files=["res://.godot/imported/white_run_8fps.gif-132e4de7d7bdb4bd957b536ebb81f8ae.tres"]
+
+[params]
+
+frames_per_second=30

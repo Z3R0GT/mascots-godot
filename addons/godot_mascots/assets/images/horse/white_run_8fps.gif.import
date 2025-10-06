@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://cplsue6uwlgod"
+path="res://.godot/imported/white_run_8fps.gif-67fc31e6247ef084fcf1a331a8677d5b.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/horse/white_run_8fps.gif"
+dest_files=["res://.godot/imported/white_run_8fps.gif-67fc31e6247ef084fcf1a331a8677d5b.tres"]
+
+[params]
+
+frames_per_second=30

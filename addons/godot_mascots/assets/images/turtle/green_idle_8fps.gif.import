@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://dokd2g1yqdsg2"
+path="res://.godot/imported/green_idle_8fps.gif-dc5c8ac508b00d505d9b98fa56918205.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/turtle/green_idle_8fps.gif"
+dest_files=["res://.godot/imported/green_idle_8fps.gif-dc5c8ac508b00d505d9b98fa56918205.tres"]
+
+[params]
+
+frames_per_second=30

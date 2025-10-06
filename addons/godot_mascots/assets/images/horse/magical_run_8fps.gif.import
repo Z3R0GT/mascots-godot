@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://vejrpkmtfn0"
+path="res://.godot/imported/magical_run_8fps.gif-22b2d0ca3e6244180fd69951618de5ac.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/horse/magical_run_8fps.gif"
+dest_files=["res://.godot/imported/magical_run_8fps.gif-22b2d0ca3e6244180fd69951618de5ac.tres"]
+
+[params]
+
+frames_per_second=30

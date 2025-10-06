@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://c3wd67dmyb6f4"
+path="res://.godot/imported/gray_lie_8fps.gif-e977322fc35f36ae1f6d64b47b692c14.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/totoro/gray_lie_8fps.gif"
+dest_files=["res://.godot/imported/gray_lie_8fps.gif-e977322fc35f36ae1f6d64b47b692c14.tres"]
+
+[params]
+
+frames_per_second=30

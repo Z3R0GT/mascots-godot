@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://cg40droodvxko"
+path="res://.godot/imported/gray_idle_8fps.gif-06f615cc5dd0b0b243ada226e2b0c7b8.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/rat/gray_idle_8fps.gif"
+dest_files=["res://.godot/imported/gray_idle_8fps.gif-06f615cc5dd0b0b243ada226e2b0c7b8.tres"]
+
+[params]
+
+frames_per_second=30

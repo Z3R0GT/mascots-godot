@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://c24wt3gi7ei5"
+path="res://.godot/imported/brown_with_ball_8fps.gif-ba48796c4dd31560c3767a6051ef5276.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/dog/brown_with_ball_8fps.gif"
+dest_files=["res://.godot/imported/brown_with_ball_8fps.gif-ba48796c4dd31560c3767a6051ef5276.tres"]
+
+[params]
+
+frames_per_second=30

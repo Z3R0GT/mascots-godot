@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://cwypaioltb8oa"
+path="res://.godot/imported/white_lie_8fps.gif-cc7a4d0c5be2dedfbde63fb4b0ba2ef3.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/fox/white_lie_8fps.gif"
+dest_files=["res://.godot/imported/white_lie_8fps.gif-cc7a4d0c5be2dedfbde63fb4b0ba2ef3.tres"]
+
+[params]
+
+frames_per_second=30

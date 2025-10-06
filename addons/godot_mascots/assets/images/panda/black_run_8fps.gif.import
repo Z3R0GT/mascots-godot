@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://dlc3twb61kmq6"
+path="res://.godot/imported/black_run_8fps.gif-0e771c43f77159a7d96c32ac0b2210ed.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/panda/black_run_8fps.gif"
+dest_files=["res://.godot/imported/black_run_8fps.gif-0e771c43f77159a7d96c32ac0b2210ed.tres"]
+
+[params]
+
+frames_per_second=30

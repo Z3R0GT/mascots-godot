@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://dhn72u7rm7hi2"
+path="res://.godot/imported/pink_idle_8fps.gif-bdc968b7d02528016a1fccbaf828700c.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/pink_idle_8fps.gif"
+dest_files=["res://.godot/imported/pink_idle_8fps.gif-bdc968b7d02528016a1fccbaf828700c.tres"]
+
+[params]
+
+frames_per_second=30

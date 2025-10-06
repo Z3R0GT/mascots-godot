@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://dosp41jl1780"
+path="res://.godot/imported/gray_run_8fps.gif-8957383c7fbfd0ad87a0a1055569ad1a.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/totoro/gray_run_8fps.gif"
+dest_files=["res://.godot/imported/gray_run_8fps.gif-8957383c7fbfd0ad87a0a1055569ad1a.tres"]
+
+[params]
+
+frames_per_second=30

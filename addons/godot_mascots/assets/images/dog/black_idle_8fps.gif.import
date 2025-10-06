@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://eorbrwcqb6vy"
+path="res://.godot/imported/black_idle_8fps.gif-5f1820373beb387a0f8878a5748848db.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/dog/black_idle_8fps.gif"
+dest_files=["res://.godot/imported/black_idle_8fps.gif-5f1820373beb387a0f8878a5748848db.tres"]
+
+[params]
+
+frames_per_second=30

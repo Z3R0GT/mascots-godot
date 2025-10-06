@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://cxqbkddfjfptl"
+path="res://.godot/imported/gray_swipe_8fps.gif-fb34a58b36d831d7197ae3eadf5a2457.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/rat/gray_swipe_8fps.gif"
+dest_files=["res://.godot/imported/gray_swipe_8fps.gif-fb34a58b36d831d7197ae3eadf5a2457.tres"]
+
+[params]
+
+frames_per_second=30

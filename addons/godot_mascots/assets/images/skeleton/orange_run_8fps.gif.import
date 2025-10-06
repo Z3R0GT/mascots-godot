@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://dsmkpew1civ0y"
+path="res://.godot/imported/orange_run_8fps.gif-7910d84c22e13e0605c974c93ffb808b.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/orange_run_8fps.gif"
+dest_files=["res://.godot/imported/orange_run_8fps.gif-7910d84c22e13e0605c974c93ffb808b.tres"]
+
+[params]
+
+frames_per_second=30

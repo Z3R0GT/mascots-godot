@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://dpd02b1asx0e3"
+path="res://.godot/imported/pink_swipe_8fps.gif-6bde4d5b80110e294d8124741e8045d1.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/pink_swipe_8fps.gif"
+dest_files=["res://.godot/imported/pink_swipe_8fps.gif-6bde4d5b80110e294d8124741e8045d1.tres"]
+
+[params]
+
+frames_per_second=30

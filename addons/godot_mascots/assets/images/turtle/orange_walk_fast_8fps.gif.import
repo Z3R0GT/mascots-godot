@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://l1y4lksxf548"
+path="res://.godot/imported/orange_walk_fast_8fps.gif-843a01437cbef1e6bcd9187504ffbd12.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/turtle/orange_walk_fast_8fps.gif"
+dest_files=["res://.godot/imported/orange_walk_fast_8fps.gif-843a01437cbef1e6bcd9187504ffbd12.tres"]
+
+[params]
+
+frames_per_second=30

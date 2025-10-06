@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://d0e3wontxds08"
+path="res://.godot/imported/yellow_with_ball_8fps.gif-f8a85cee2301bbd83221fb2359fac588.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/clippy/yellow_with_ball_8fps.gif"
+dest_files=["res://.godot/imported/yellow_with_ball_8fps.gif-f8a85cee2301bbd83221fb2359fac588.tres"]
+
+[params]
+
+frames_per_second=30

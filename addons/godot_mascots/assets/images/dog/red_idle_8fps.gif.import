@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://coryg2hy6kic"
+path="res://.godot/imported/red_idle_8fps.gif-6456307cc6d7e387b212d679d329c769.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/dog/red_idle_8fps.gif"
+dest_files=["res://.godot/imported/red_idle_8fps.gif-6456307cc6d7e387b212d679d329c769.tres"]
+
+[params]
+
+frames_per_second=30

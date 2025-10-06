@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://c5a8asoeq0gvr"
+path="res://.godot/imported/white_run_8fps.gif-b319e14244cff8209ec615ffecc4d454.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/chicken/white_run_8fps.gif"
+dest_files=["res://.godot/imported/white_run_8fps.gif-b319e14244cff8209ec615ffecc4d454.tres"]
+
+[params]
+
+frames_per_second=30

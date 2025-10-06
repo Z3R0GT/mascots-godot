@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://bo4t4hp2gj0rv"
+path="res://.godot/imported/white_with_ball_8fps.gif-f1f76bb818c5aee7092b2337281fb51a.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/fox/white_with_ball_8fps.gif"
+dest_files=["res://.godot/imported/white_with_ball_8fps.gif-f1f76bb818c5aee7092b2337281fb51a.tres"]
+
+[params]
+
+frames_per_second=30

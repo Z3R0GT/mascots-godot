@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://dnvlau2gd5nay"
+path="res://.godot/imported/brown_lie_8fps.gif-a2bd07c3e143a9541cbfe030e92199bc.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/panda/brown_lie_8fps.gif"
+dest_files=["res://.godot/imported/brown_lie_8fps.gif-a2bd07c3e143a9541cbfe030e92199bc.tres"]
+
+[params]
+
+frames_per_second=30

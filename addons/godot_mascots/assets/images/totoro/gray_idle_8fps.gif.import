@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://cj2vjekugj8c7"
+path="res://.godot/imported/gray_idle_8fps.gif-1346d39aaec07750b2559a6acecc6918.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/totoro/gray_idle_8fps.gif"
+dest_files=["res://.godot/imported/gray_idle_8fps.gif-1346d39aaec07750b2559a6acecc6918.tres"]
+
+[params]
+
+frames_per_second=30

@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://ctao07jq6sc1b"
+path="res://.godot/imported/paint_beige_stand_8fps.gif-17cb7e4a25f65a764926390fe25f1f40.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/horse/paint_beige_stand_8fps.gif"
+dest_files=["res://.godot/imported/paint_beige_stand_8fps.gif-17cb7e4a25f65a764926390fe25f1f40.tres"]
+
+[params]
+
+frames_per_second=30

@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://cnvd4l7nm61nd"
+path="res://.godot/imported/purple_run_8fps.gif-b46cd747725bd613324e9fcc0eb8455c.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/morph/purple_run_8fps.gif"
+dest_files=["res://.godot/imported/purple_run_8fps.gif-b46cd747725bd613324e9fcc0eb8455c.tres"]
+
+[params]
+
+frames_per_second=30

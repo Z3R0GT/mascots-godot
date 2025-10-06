@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://ccbnnqa5ep7xc"
+path="res://.godot/imported/red_run_8fps.gif-9fcb1947175e8931008a0c85922fb41d.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/crab/red_run_8fps.gif"
+dest_files=["res://.godot/imported/red_run_8fps.gif-9fcb1947175e8931008a0c85922fb41d.tres"]
+
+[params]
+
+frames_per_second=30

@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://bikb5mgvvbbd"
+path="res://.godot/imported/white_stand_8fps.gif-8e3046f8b9b313c1ef861ef85bf954c7.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/white_stand_8fps.gif"
+dest_files=["res://.godot/imported/white_stand_8fps.gif-8e3046f8b9b313c1ef861ef85bf954c7.tres"]
+
+[params]
+
+frames_per_second=30

@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://bq6jwduxmvfut"
+path="res://.godot/imported/black_walk_8fps.gif-98a9dc4802966bd2337df755274ded00.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/dog/black_walk_8fps.gif"
+dest_files=["res://.godot/imported/black_walk_8fps.gif-98a9dc4802966bd2337df755274ded00.tres"]
+
+[params]
+
+frames_per_second=30

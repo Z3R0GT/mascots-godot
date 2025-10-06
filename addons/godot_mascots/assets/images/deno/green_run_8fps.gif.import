@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://ct66kbf68sp6q"
+path="res://.godot/imported/green_run_8fps.gif-6fe1b2ecb512bff234e50d6772606c82.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/deno/green_run_8fps.gif"
+dest_files=["res://.godot/imported/green_run_8fps.gif-6fe1b2ecb512bff234e50d6772606c82.tres"]
+
+[params]
+
+frames_per_second=30

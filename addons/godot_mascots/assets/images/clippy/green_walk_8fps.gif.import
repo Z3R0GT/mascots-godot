@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://bvw7ncfejvov3"
+path="res://.godot/imported/green_walk_8fps.gif-d72aecae869d98a25c537d45ba15b3e0.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/clippy/green_walk_8fps.gif"
+dest_files=["res://.godot/imported/green_walk_8fps.gif-d72aecae869d98a25c537d45ba15b3e0.tres"]
+
+[params]
+
+frames_per_second=30

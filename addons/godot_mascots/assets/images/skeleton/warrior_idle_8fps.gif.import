@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://bygnagtb5s0mk"
+path="res://.godot/imported/warrior_idle_8fps.gif-0eca9ebbbbb840b5a4ee9a600aa7de1e.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/warrior_idle_8fps.gif"
+dest_files=["res://.godot/imported/warrior_idle_8fps.gif-0eca9ebbbbb840b5a4ee9a600aa7de1e.tres"]
+
+[params]
+
+frames_per_second=30

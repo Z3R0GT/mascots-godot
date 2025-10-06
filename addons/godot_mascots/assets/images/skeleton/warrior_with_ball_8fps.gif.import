@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://g8yo8kxrr2ii"
+path="res://.godot/imported/warrior_with_ball_8fps.gif-cd2c99d49abffe437dd5c20f5222d995.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/warrior_with_ball_8fps.gif"
+dest_files=["res://.godot/imported/warrior_with_ball_8fps.gif-cd2c99d49abffe437dd5c20f5222d995.tres"]
+
+[params]
+
+frames_per_second=30

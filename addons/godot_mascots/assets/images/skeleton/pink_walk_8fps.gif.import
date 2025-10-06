@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://braf4pktcowgx"
+path="res://.godot/imported/pink_walk_8fps.gif-cbc8e0a0f4c0fd0c9c07e6e5210c67f0.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/pink_walk_8fps.gif"
+dest_files=["res://.godot/imported/pink_walk_8fps.gif-cbc8e0a0f4c0fd0c9c07e6e5210c67f0.tres"]
+
+[params]
+
+frames_per_second=30

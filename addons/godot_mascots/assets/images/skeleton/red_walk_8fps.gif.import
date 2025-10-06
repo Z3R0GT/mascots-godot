@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://dco3bxpew16sr"
+path="res://.godot/imported/red_walk_8fps.gif-80ca43afaaa349509af11e3283f0266c.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/red_walk_8fps.gif"
+dest_files=["res://.godot/imported/red_walk_8fps.gif-80ca43afaaa349509af11e3283f0266c.tres"]
+
+[params]
+
+frames_per_second=30

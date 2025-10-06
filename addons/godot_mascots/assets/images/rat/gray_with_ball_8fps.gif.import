@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://b5cjd1tspg8nw"
+path="res://.godot/imported/gray_with_ball_8fps.gif-a4cc546e4554d58f70044f663a6fec36.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/rat/gray_with_ball_8fps.gif"
+dest_files=["res://.godot/imported/gray_with_ball_8fps.gif-a4cc546e4554d58f70044f663a6fec36.tres"]
+
+[params]
+
+frames_per_second=30

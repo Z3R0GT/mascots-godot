@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://bmvw0b54fxxuc"
+path="res://.godot/imported/paint_black_stand_8fps.gif-1623ba5d935293059bf36e3a85736cc7.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/horse/paint_black_stand_8fps.gif"
+dest_files=["res://.godot/imported/paint_black_stand_8fps.gif-1623ba5d935293059bf36e3a85736cc7.tres"]
+
+[params]
+
+frames_per_second=30

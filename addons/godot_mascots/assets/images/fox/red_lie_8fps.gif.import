@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://cb35htf0q0n67"
+path="res://.godot/imported/red_lie_8fps.gif-19e7bc232409e25aa7e5b136b817769d.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/fox/red_lie_8fps.gif"
+dest_files=["res://.godot/imported/red_lie_8fps.gif-19e7bc232409e25aa7e5b136b817769d.tres"]
+
+[params]
+
+frames_per_second=30

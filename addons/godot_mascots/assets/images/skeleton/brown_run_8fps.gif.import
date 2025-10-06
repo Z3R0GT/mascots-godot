@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://ddydvh1rfqh2l"
+path="res://.godot/imported/brown_run_8fps.gif-ed82bea8813f88d13ce7afe0e5ef2524.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/brown_run_8fps.gif"
+dest_files=["res://.godot/imported/brown_run_8fps.gif-ed82bea8813f88d13ce7afe0e5ef2524.tres"]
+
+[params]
+
+frames_per_second=30

@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://djr15026m7yrd"
+path="res://.godot/imported/red_with_ball_8fps.gif-a3168949d82c40bf08a999e11c6d2b84.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/crab/red_with_ball_8fps.gif"
+dest_files=["res://.godot/imported/red_with_ball_8fps.gif-a3168949d82c40bf08a999e11c6d2b84.tres"]
+
+[params]
+
+frames_per_second=30

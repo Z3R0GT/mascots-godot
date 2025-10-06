@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://dl42buof6164a"
+path="res://.godot/imported/socks_black_swipe_8fps.gif-68c40409e3d43a2a2fe47155164a735d.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/horse/socks_black_swipe_8fps.gif"
+dest_files=["res://.godot/imported/socks_black_swipe_8fps.gif-68c40409e3d43a2a2fe47155164a735d.tres"]
+
+[params]
+
+frames_per_second=30

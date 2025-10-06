@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://c61jomkinsy0v"
+path="res://.godot/imported/gray_jump_8fps.gif-2eaa942389a06a462d94de320ea297b7.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/totoro/gray_jump_8fps.gif"
+dest_files=["res://.godot/imported/gray_jump_8fps.gif-2eaa942389a06a462d94de320ea297b7.tres"]
+
+[params]
+
+frames_per_second=30

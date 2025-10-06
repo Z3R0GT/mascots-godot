@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://dlr128ik5q4pg"
+path="res://.godot/imported/brown_swipe_8fps.gif-3851ac6f08f80088f72dfb83a5b35d4b.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/brown_swipe_8fps.gif"
+dest_files=["res://.godot/imported/brown_swipe_8fps.gif-3851ac6f08f80088f72dfb83a5b35d4b.tres"]
+
+[params]
+
+frames_per_second=30

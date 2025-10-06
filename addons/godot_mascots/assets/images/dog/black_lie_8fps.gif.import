@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://ly6cmus2wjrf"
+path="res://.godot/imported/black_lie_8fps.gif-6122e5fd70a7e69a5ba7862c14bc5556.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/dog/black_lie_8fps.gif"
+dest_files=["res://.godot/imported/black_lie_8fps.gif-6122e5fd70a7e69a5ba7862c14bc5556.tres"]
+
+[params]
+
+frames_per_second=30

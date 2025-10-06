@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://rndtyker32mi"
+path="res://.godot/imported/gray_swipe_8fps.gif-9399589683389bd3e47834645f15790c.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/totoro/gray_swipe_8fps.gif"
+dest_files=["res://.godot/imported/gray_swipe_8fps.gif-9399589683389bd3e47834645f15790c.tres"]
+
+[params]
+
+frames_per_second=30

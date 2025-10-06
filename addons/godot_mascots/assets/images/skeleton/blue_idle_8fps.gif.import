@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://du2hqch2dsa67"
+path="res://.godot/imported/blue_idle_8fps.gif-416cf492e06c58601a205cabf97955b6.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/blue_idle_8fps.gif"
+dest_files=["res://.godot/imported/blue_idle_8fps.gif-416cf492e06c58601a205cabf97955b6.tres"]
+
+[params]
+
+frames_per_second=30

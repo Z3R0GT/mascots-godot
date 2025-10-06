@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://56gqdfso45cs"
+path="res://.godot/imported/pink_with_ball_8fps.gif-710ef34b8dbe5e8ab8a714804fa0d72a.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/skeleton/pink_with_ball_8fps.gif"
+dest_files=["res://.godot/imported/pink_with_ball_8fps.gif-710ef34b8dbe5e8ab8a714804fa0d72a.tres"]
+
+[params]
+
+frames_per_second=30

@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://ck4j6nh62rfg2"
+path="res://.godot/imported/akita_idle_8fps.gif-c63e424235310a9732f4ef9e6aae550f.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/dog/akita_idle_8fps.gif"
+dest_files=["res://.godot/imported/akita_idle_8fps.gif-c63e424235310a9732f4ef9e6aae550f.tres"]
+
+[params]
+
+frames_per_second=30

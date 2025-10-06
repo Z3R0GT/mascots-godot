@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://b0nb53xpeg8aq"
+path="res://.godot/imported/white_stand_8fps.gif-d0325db9e109ce316dc781faddd38f40.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/horse/white_stand_8fps.gif"
+dest_files=["res://.godot/imported/white_stand_8fps.gif-d0325db9e109ce316dc781faddd38f40.tres"]
+
+[params]
+
+frames_per_second=30

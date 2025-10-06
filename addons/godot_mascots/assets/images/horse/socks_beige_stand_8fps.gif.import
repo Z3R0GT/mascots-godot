@@ -1,0 +1,15 @@
+[remap]
+
+importer="import_gif_to_sprite_frames"
+type="SpriteFrames"
+uid="uid://dl2yycisp7ecs"
+path="res://.godot/imported/socks_beige_stand_8fps.gif-7af66ae22216a0cc3c425ecaf6b4356a.tres"
+
+[deps]
+
+source_file="res://addons/godot_mascots/assets/images/horse/socks_beige_stand_8fps.gif"
+dest_files=["res://.godot/imported/socks_beige_stand_8fps.gif-7af66ae22216a0cc3c425ecaf6b4356a.tres"]
+
+[params]
+
+frames_per_second=30
