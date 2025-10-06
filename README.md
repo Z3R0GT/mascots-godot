@@ -10,3 +10,6 @@ its license and it's pretty much it :D
 
 yet, don't forget to give me a star :D (and here too https://github.com/tonybaloney/vscode-pets)
 
+# NOTE
+
+this plugin require 'godotgif' as dependency in order to use premade mascots (which are mostly in .gif format, and Godot doesn't support it)
